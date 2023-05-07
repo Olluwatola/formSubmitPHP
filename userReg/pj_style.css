@@ -1,0 +1,39 @@
+#navdiv{
+    
+    text-align: right;
+    background-color:whitesmoke;
+    margin: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding:2vh;
+    font-family: arial black;
+}
+body{
+    margin: 0;
+    background-color: oldlace;
+}
+
+div{
+    margin-top: 7px;
+}
+
+#form_div{
+     margin: auto;
+     width: 10%;
+
+ 
+}
+
+
+  
+
+a{
+    text-decoration: none;
+    color: burlywood;
+}
+
+#submitButton{
+    padding: 2vh;
+    border-radius: 4px;
+    background-color: lightgreen;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
